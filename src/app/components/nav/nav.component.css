@@ -1,0 +1,17 @@
+a:hover
+{
+  color: red;
+}
+.navbar{
+  color:red;
+  background-color: aliceblue;
+  font-size:large;
+
+}
+.dropdown-menu{
+  background-color:aliceblue;
+}
+.dropdown-item{
+  color: red;
+}
+
